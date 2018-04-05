@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1.13-alpine
 
 MAINTAINER Stepan Mazurov <stepan@socialengine.com>
 
